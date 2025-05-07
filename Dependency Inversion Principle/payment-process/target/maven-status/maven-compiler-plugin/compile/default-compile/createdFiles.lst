@@ -1,0 +1,5 @@
+com\principal\solid\App.class
+com\principal\solid\PayPalPaymentGateway.class
+com\principal\solid\StripPaymentGateway.class
+com\principal\solid\PaymentGateway.class
+com\principal\solid\CheckoutService.class
